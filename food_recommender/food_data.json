@@ -1,0 +1,186 @@
+{
+  "happy": [
+    {
+      "name": "Chocolate Ice Cream",
+      "type": "Dessert",
+      "prep_time": "5 mins",
+      "calories": "250",
+      "reason": "Sweet treats boost serotonin levels! Perfect for happy moments and celebrations.",
+      "ingredients": "chocolate, cream, sugar, vanilla extract, optional toppings",
+      "tips": "Add sprinkles or chocolate chips for extra happiness!",
+      "image": "images/chocolate_ice_cream.jpg",
+      "nutrition": {"carbs": "30g", "protein": "5g", "fat": "12g"}
+    },
+    {
+      "name": "Pizza Margherita",
+      "type": "Italian",
+      "prep_time": "25 mins",
+      "calories": "285",
+      "reason": "Comfort food perfect for happy moments and sharing with friends.",
+      "ingredients": "pizza dough, tomato sauce, fresh mozzarella, basil leaves, olive oil",
+      "tips": "Perfect for sharing with friends during happy gatherings!",
+      "image": "images/pizza_margherita.jpg",
+      "nutrition": {"carbs": "35g", "protein": "12g", "fat": "10g"}
+    },
+    {
+      "name": "Fruit Smoothie Bowl",
+      "type": "Healthy",
+      "prep_time": "10 mins",
+      "calories": "320",
+      "reason": "Fresh fruits provide natural energy boost and vibrant colors lift mood.",
+      "ingredients": "banana, mixed berries, Greek yogurt, honey, granola, coconut flakes",
+      "tips": "Decorate with colorful fruits for visual appeal and extra nutrition",
+      "image": "images/fruit_smoothie_bowl.jpg",
+      "nutrition": {"carbs": "45g", "protein": "15g", "fat": "8g"}
+    },
+    {
+      "name": "Sushi Platter",
+      "type": "Japanese",
+      "prep_time": "30 mins",
+      "calories": "350",
+      "reason": "Exciting and festive for celebrations, variety keeps things interesting.",
+      "ingredients": "sushi rice, nori seaweed, fresh fish, avocado, cucumber, soy sauce",
+      "tips": "Try different rolls for variety and explore new flavors",
+      "image": "images/sushi_platter.jpg",
+      "nutrition": {"carbs": "40g", "protein": "18g", "fat": "6g"}
+    }
+  ],
+  "sad": [
+    {
+      "name": "Creamy Mac and Cheese",
+      "type": "Comfort Food",
+      "prep_time": "20 mins",
+      "calories": "450",
+      "reason": "Warm, creamy texture provides ultimate comfort like a warm hug.",
+      "ingredients": "elbow pasta, cheddar cheese, milk, butter, flour, breadcrumbs",
+      "tips": "Bake for crispy top layer that adds wonderful texture",
+      "image": "images/mac_cheese.jpg",
+      "nutrition": {"carbs": "50g", "protein": "20g", "fat": "18g"}
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "type": "Soup",
+      "prep_time": "35 mins",
+      "calories": "180",
+      "reason": "Warm and soothing like a hug in a bowl, reminds of home.",
+      "ingredients": "chicken breast, egg noodles, carrots, celery, onion, chicken broth",
+      "tips": "Add fresh herbs like parsley or dill for extra flavor and comfort",
+      "image": "images/chicken_soup.jpg",
+      "nutrition": {"carbs": "20g", "protein": "15g", "fat": "5g"}
+    },
+    {
+      "name": "Hot Chocolate",
+      "type": "Drink",
+      "prep_time": "5 mins",
+      "calories": "200",
+      "reason": "Warm and sweet comfort drink that instantly makes you feel better.",
+      "ingredients": "milk, dark chocolate, sugar, whipped cream, cocoa powder",
+      "tips": "Add marshmallows or cinnamon for extra comfort and warmth",
+      "image": "images/hot_chocolate.jpg",
+      "nutrition": {"carbs": "25g", "protein": "8g", "fat": "9g"}
+    },
+    {
+      "name": "Mashed Potatoes",
+      "type": "Comfort Food",
+      "prep_time": "25 mins",
+      "calories": "220",
+      "reason": "Soft, warm texture is very comforting and reminds of home cooking.",
+      "ingredients": "potatoes, butter, milk, salt, pepper, optional garlic",
+      "tips": "Make them extra creamy with more butter and warm milk",
+      "image": "images/mashed_potatoes.jpg",
+      "nutrition": {"carbs": "35g", "protein": "5g", "fat": "8g"}
+    }
+  ],
+  "stressed": [
+    {
+      "name": "Green Tea",
+      "type": "Drink",
+      "prep_time": "3 mins",
+      "calories": "5",
+      "reason": "L-theanine promotes relaxation and reduces stress hormones.",
+      "ingredients": "green tea leaves, hot water, optional honey or lemon",
+      "tips": "Drink slowly and breathe deeply while enjoying the calming aroma",
+      "image": "images/green_tea.jpg",
+      "nutrition": {"carbs": "1g", "protein": "0g", "fat": "0g"}
+    },
+    {
+      "name": "Dark Chocolate",
+      "type": "Snack",
+      "prep_time": "2 mins",
+      "calories": "150",
+      "reason": "Reduces cortisol stress hormones and contains mood-boosting compounds.",
+      "ingredients": "dark chocolate (70% cocoa or higher)",
+      "tips": "Choose 70% cocoa or higher for maximum stress-reducing benefits",
+      "image": "images/dark_chocolate.jpg",
+      "nutrition": {"carbs": "15g", "protein": "2g", "fat": "10g"}
+    },
+    {
+      "name": "Oatmeal with Berries",
+      "type": "Breakfast",
+      "prep_time": "10 mins",
+      "calories": "280",
+      "reason": "Complex carbs help regulate mood and blood sugar levels.",
+      "ingredients": "rolled oats, milk, mixed berries, honey, walnuts, cinnamon",
+      "tips": "Add cinnamon for extra calming effect and blood sugar regulation",
+      "image": "images/oatmeal_berries.jpg",
+      "nutrition": {"carbs": "45g", "protein": "10g", "fat": "7g"}
+    },
+    {
+      "name": "Avocado Toast",
+      "type": "Healthy",
+      "prep_time": "8 mins",
+      "calories": "320",
+      "reason": "Healthy fats support brain function and reduce inflammation.",
+      "ingredients": "whole grain bread, ripe avocado, lemon juice, salt, pepper",
+      "tips": "Add poached egg for protein boost and sustained energy",
+      "image": "images/avocado_toast.jpg",
+      "nutrition": {"carbs": "30g", "protein": "8g", "fat": "20g"}
+    }
+  ],
+  "tired": [
+    {
+      "name": "Banana Energy Smoothie",
+      "type": "Drink",
+      "prep_time": "7 mins",
+      "calories": "350",
+      "reason": "Quick energy from natural sugars and potassium for muscle function.",
+      "ingredients": "banana, Greek yogurt, honey, oats, milk, peanut butter",
+      "tips": "Add protein powder for sustained energy throughout the day",
+      "image": "images/banana_smoothie.jpg",
+      "nutrition": {"carbs": "50g", "protein": "20g", "fat": "8g"}
+    },
+    {
+      "name": "Mixed Nuts",
+      "type": "Snack",
+      "prep_time": "2 mins",
+      "calories": "180",
+      "reason": "Sustained energy from healthy fats, protein, and essential nutrients.",
+      "ingredients": "almonds, walnuts, cashews, pistachios, dried cranberries",
+      "tips": "Portion control - small handful provides perfect energy boost",
+      "image": "images/mixed_nuts.jpg",
+      "nutrition": {"carbs": "10g", "protein": "6g", "fat": "15g"}
+    },
+    {
+      "name": "Homemade Energy Bars",
+      "type": "Snack",
+      "prep_time": "15 mins",
+      "calories": "200",
+      "reason": "Quick and convenient energy source with natural ingredients.",
+      "ingredients": "oats, dates, nuts, honey, dried fruits, chia seeds",
+      "tips": "Make in batches for quick access when energy is low",
+      "image": "images/energy_bars.jpg",
+      "nutrition": {"carbs": "30g", "protein": "5g", "fat": "8g"}
+    },
+    {
+      "name": "Coffee with Healthy Snack",
+      "type": "Drink + Snack",
+      "prep_time": "5 mins",
+      "calories": "150",
+      "reason": "Quick caffeine boost combined with sustained energy from snack.",
+      "ingredients": "coffee, banana or handful of nuts",
+      "tips": "Pair with protein to avoid caffeine crash later",
+      "image": "images/coffee_snack.jpg",
+      "nutrition": {"carbs": "20g", "protein": "5g", "fat": "6g"}
+    }
+  ]
+}
